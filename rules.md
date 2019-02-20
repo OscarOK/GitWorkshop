@@ -4,4 +4,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 1. Bring a chocolate to the professor.
 2. Be respectful with others opinions.
-3. Be happy.
+3. Be quiet.
+4. Be happy.
