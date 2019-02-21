@@ -1,4 +1,4 @@
-# Hello World!!!
+# Hello, there
 
 This is workshop made for UACH students...
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -14,5 +14,3 @@ ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i
 reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
 sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
 laborum.
-
-asdkhasjdhasjkhdjka
