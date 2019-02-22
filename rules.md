@@ -6,3 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 2. Be respectful with others opinions.
 3. Be quiet.
 4. Be happy.
+5. The professor will give some chocolates to the students on the last day.
