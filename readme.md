@@ -1,4 +1,4 @@
-# Hello, there
+# Hello, there my friends
 
 This is workshop made for UACH students...
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
